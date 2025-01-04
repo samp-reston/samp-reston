@@ -28,10 +28,8 @@ I use my desire for greater developer experiences to build open source projects 
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <p align="center">
-<!-- <a href="https://github.com/samp-reston/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samp-reston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/samp-reston/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samp-reston&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-<img alt="Samuel Preston's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=samp-reston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Samuel Preston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samp-reston&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="Samuel Preston's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=samp-reston&show_icons=true&count_private=true&theme=transparent" />
+ <img alt="Samuel Preston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samp-reston&langs_count=8&count_private=true&layout=compact&theme=transparent" />
 </p>
 
   
